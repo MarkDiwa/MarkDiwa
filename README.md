@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MarkDiwa
 - 👀 I’m interested in Technology and Japanese Culture.
+- You can reach me at [Linkedin](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 <!---
 🌱 I’m currently learning Flutter
