@@ -2,6 +2,8 @@
 - 👀 I’m interested in Technology and Japanese Culture.
 - You can reach me at [Linkedin](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
+
+Note: I'm still working on contents for my github profile.
 <!---
 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
